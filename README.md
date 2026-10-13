@@ -1,7 +1,7 @@
 # Git Session 1 - Assignment 1
 
 **Name:** Razane Souane
-**GitHub username:** YOUR_USERNAME
+**GitHub username:** razanesouane
 
 ## Description
 Practice repository for the Git and GitHub workflow: commits, branches, remotes, fetch/pull and history.
